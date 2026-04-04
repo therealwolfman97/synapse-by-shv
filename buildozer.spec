@@ -7,15 +7,15 @@ package.domain = org.sachith
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,json,txt
 
-version = 1.1
+version = 1.2
 
-requirements = python3,kivy
+requirements = python3,kivy,requests,certifi,rsa,pyasn1
 
 orientation = portrait
 fullscreen = 0
 
 android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
-android.api = 34
+android.api = 33
 android.minapi = 21
 android.ndk_api = 21
 android.archs = arm64-v8a
