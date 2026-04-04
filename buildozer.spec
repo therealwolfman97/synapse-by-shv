@@ -7,7 +7,7 @@ package.domain = org.sachith
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,json,txt
 
-version = 1.0
+version = 1.1
 
 requirements = python3,kivy
 
